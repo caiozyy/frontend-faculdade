@@ -1,2 +1,2 @@
 
-COMEÇO DA ATIVIDADE, DIVIDIDA EM FASE INICIAL E COMPLETA 
+Atividades de Front-end da Faculdade IESB
